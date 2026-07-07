@@ -7,7 +7,7 @@ static const char *hidden_patterns[] = {
     "obliviate",
     "zer0t",
     "nirm",
-    "w00t"
+    "w00t",
     NULL  
 };
 
